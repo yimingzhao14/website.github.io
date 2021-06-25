@@ -88,7 +88,7 @@ ul li.active a{
 }
 
 h4{
-	font: arial;
+	font-family: arial;
 	color:white;
 	border-box: 100px;
 	text-align: center;
